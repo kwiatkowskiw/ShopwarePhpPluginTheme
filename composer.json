@@ -10,7 +10,7 @@
     }
   },
   "extra": {
-    "php-planner-class": "PhpPluginTheme\\PhpPluginTheme",
+    "shopware-plugin-class": "PhpPluginTheme\\PhpPluginTheme",
     "label": {
       "de-DE": "Theme PhpPluginTheme plugin",
       "en-GB": "Theme PhpPluginTheme plugin"
