@@ -9,10 +9,6 @@
       "PhpPluginTheme\\": "src/"
     }
   },
-  "require": {
-        "shopware/core": "^6.4",
-        "shopware/storefront": "^6.4"
-  },
   "extra": {
     "shopware-plugin-class": "PhpPluginTheme\\PhpPluginTheme",
     "label": {
