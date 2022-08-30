@@ -1,3 +1,0 @@
-# ShopwarePhpPluginTheme
-
-SIEMA
