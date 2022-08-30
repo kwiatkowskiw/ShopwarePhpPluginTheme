@@ -15,5 +15,8 @@
       "de-DE": "Theme PhpPluginTheme plugin",
       "en-GB": "Theme PhpPluginTheme plugin"
     }
-  }
+  },
+  "require": {
+        "sw/php-plugin-theme": "1.0.0"
+    }
 }
