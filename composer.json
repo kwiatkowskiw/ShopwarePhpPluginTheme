@@ -1,5 +1,5 @@
 {
-  "name": "iteo/theme",
+  "name": "iteo-shopware/theme",
   "description": "Theme skeleton plugin",
   "type": "shopware-platform-plugin",
   "license": "MIT",
