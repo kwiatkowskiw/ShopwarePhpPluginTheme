@@ -3,7 +3,7 @@
   "description": "Theme skeleton plugin",
   "type": "shopware-platform-plugin",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "autoload": {
     "psr-4": {
       "PhpPluginTheme\\": "src/"
@@ -16,8 +16,5 @@
       "en-GB": "Theme PhpPluginTheme plugin"
     }
   },
-  "require": {
-        "sw/php-plugin-theme": "1.0.0"
-    },
-  "minimum-stability": "dev"
+  "prefer-stable": "true"
 }
