@@ -18,5 +18,6 @@
   },
   "require": {
         "sw/php-plugin-theme": "1.0.0"
-    }
+    },
+  "minimum-stability": "dev"
 }
