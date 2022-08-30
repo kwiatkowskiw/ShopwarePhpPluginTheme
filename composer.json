@@ -9,14 +9,9 @@
       "PhpPluginTheme\\": "src/"
     }
   },
-  "repositories": [
-        {"type": "composer", "url": "https://packagist.com/orgs/test123/"},
-        {"packagist.org": false}
-    ],
   "require": {
         "shopware/core": "^6.4",
         "shopware/storefront": "^6.4",
-        "iteo-shopware/theme": "1.0.3"
   },
   "extra": {
     "shopware-plugin-class": "PhpPluginTheme\\PhpPluginTheme",
