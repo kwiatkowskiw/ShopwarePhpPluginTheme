@@ -1,5 +1,5 @@
 {
-  "name": "sw/php-plugin-theme",
+  "name": "iteo/theme",
   "description": "Theme skeleton plugin",
   "type": "shopware-platform-plugin",
   "license": "MIT",
